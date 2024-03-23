@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 가치를 만들 수 있는 좋은 기술들을 내것으로 빨아들이려 노력하는 개발자, 프로그래밍을 통해 세상에 새로운 것들을 만들어내고자 하는 예비 창업자 김태현입니다.
 
+Tech Stacks:
+
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
