@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 가치를 만들 수 있는 좋은 기술들을 내것으로 빨아들이려 노력하는 개발자, 프로그래밍을 통해 세상에 새로운 것들을 만들어내고자 하는 예비 창업자 김태현입니다.
 
-개발 고민을 담은 블로그는 ![Blog](https://velog.io/@rla0591/posts) ,
-저를 좀더 자세히 소개하는 이력서는  ![이력서]([https://velog.io/@rla0591/posts](https://foregoing-neem-ad2.notion.site/Portfolio-fdcf904e17fe4766ac082ec4763271c2?pvs=4))
+개발 고민을 담은 블로그는 [Blog](https://velog.io/@rla0591/posts) ,
+저를 좀더 자세히 소개하는 이력서는  [이력서]([https://velog.io/@rla0591/posts](https://foregoing-neem-ad2.notion.site/Portfolio-fdcf904e17fe4766ac082ec4763271c2?pvs=4))
 
 Tech Stacks:
 
