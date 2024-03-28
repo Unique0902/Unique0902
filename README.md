@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 코드를 통해 세상에 중요한 가치를  만들고자 하는 개발자 김태현입니다.
 
 <!--
 **Unique0902/Unique0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
