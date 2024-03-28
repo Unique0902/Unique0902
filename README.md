@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-가치를 만들 수 있는 좋은 기술들을 내것으로 빨아들이려 노력하는 개발자, 프로그래밍을 통해 세상에 새로운 것들을 만들어내고자 하는 예비 창업자 김태현입니다.
+코딩을 통하여 세상에 새로운 가치를 창출해 내는 것에 대해 매력을 느꼈으며, 그 과정에서 발생한 문제들을 해결해 나가는 과정에 쾌감을 느끼며 개발을 이어나가고 있습니다.
 
 개발 고민을 담은 블로그는 [Blog](https://velog.io/@rla0591/posts) ,
 저를 좀더 자세히 소개하는 이력서는  [Here!](https://foregoing-neem-ad2.notion.site/269793bbd6734addb902b5af30ff6068?pvs=4)
